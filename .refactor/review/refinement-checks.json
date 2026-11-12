@@ -1,0 +1,362 @@
+[
+  {
+    "path": "index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "en/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "entreprise/index.html",
+    "viewport": 1440,
+    "border": "0px",
+    "languageControls": 4,
+    "scrollWidth": 1424,
+    "width": 1424
+  },
+  {
+    "path": "entreprise/equipe/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "entreprise/temoignages/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "services/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "investir/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "modeles/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "modeles/bellevue/index.html",
+    "viewport": 1440,
+    "border": "0px",
+    "languageControls": 4,
+    "scrollWidth": 1424,
+    "width": 1424
+  },
+  {
+    "path": "realisations/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "inventaire/index.html",
+    "viewport": 1440,
+    "border": "0px",
+    "languageControls": 4,
+    "scrollWidth": 1424,
+    "width": 1424
+  },
+  {
+    "path": "nous-joindre/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "actualites/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "en/models/semi-detached/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "en/contact-us/index.html",
+    "viewport": 1440,
+    "border": "47.5px",
+    "languageControls": 1,
+    "scrollWidth": 1345,
+    "width": 1345
+  },
+  {
+    "path": "index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "en/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "entreprise/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "entreprise/equipe/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "entreprise/temoignages/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "services/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "investir/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "modeles/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "modeles/bellevue/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "realisations/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "inventaire/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "nous-joindre/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "actualites/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "en/models/semi-detached/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "en/contact-us/index.html",
+    "viewport": 768,
+    "border": "25.5px",
+    "languageControls": 1,
+    "scrollWidth": 717,
+    "width": 717
+  },
+  {
+    "path": "index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "en/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "entreprise/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "entreprise/equipe/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "entreprise/temoignages/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "services/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "investir/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "modeles/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "modeles/bellevue/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "realisations/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "inventaire/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "nous-joindre/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "actualites/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "en/models/semi-detached/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "path": "en/contact-us/index.html",
+    "viewport": 390,
+    "border": "16px",
+    "languageControls": 1,
+    "scrollWidth": 358,
+    "width": 358
+  }
+]
