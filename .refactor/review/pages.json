@@ -1,0 +1,919 @@
+[
+  {
+    "path": "2020/05/03/des-petits-ajouts-pour-donner-du-punch-a-votre-cuisine/index.html",
+    "title": "Des petits ajouts pour donner du punch à votre cuisine – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "2020/05/03/pourquoi-prendre-une-assurance-habitation/index.html",
+    "title": "Pourquoi prendre une assurance habitation? – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "actualites/index.html",
+    "title": "Silva Construction | Nouvelles de la construction | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "categorie/a-louer/index.html",
+    "title": "À louer – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "categorie/a-vendre/index.html",
+    "title": "À vendre – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/about-us/index.html",
+    "title": "Silva Construction | A renowned entrepreneur | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/about-us/team/index.html",
+    "title": "Silva Construction | Family story | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/about-us/testimonials/index.html",
+    "title": "Silva Construction | Satisfied customers | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/categorie/for-rent/index.html",
+    "title": "For rent – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/categorie/for-sale/index.html",
+    "title": "For sale – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/constructions/10-rue-lesage-val-des-monts/index.html",
+    "title": "10 Lesage, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 19
+  },
+  {
+    "path": "en/constructions/107-commandeur-cantley/index.html",
+    "title": "107 Du Commandeur, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 34
+  },
+  {
+    "path": "en/constructions/108-lacaune-gatineau/index.html",
+    "title": "108 De Lacaune, Gatineau – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 44
+  },
+  {
+    "path": "en/constructions/11-de-la-falaise-cantley-le-bellevue/index.html",
+    "title": "11 De la Falaise, Cantley (Le Bellevue) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 28
+  },
+  {
+    "path": "en/constructions/12-rue-montreux-cantley/index.html",
+    "title": "12 Montreux (Cantley) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 11
+  },
+  {
+    "path": "en/constructions/15-georges-masson-angers-le-citadin/index.html",
+    "title": "15 Georges, Masson-Angers (Le Citadin) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 27
+  },
+  {
+    "path": "en/constructions/16-ch-pink-cantley/index.html",
+    "title": "16 Pink, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 21
+  },
+  {
+    "path": "en/constructions/18-du-panorama-val-des-monts/index.html",
+    "title": "18 Du Panorama, Val-des-Monts – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 47
+  },
+  {
+    "path": "en/constructions/19-lafreniere-road-val-des-monts/index.html",
+    "title": "19 Lafreniere Road, Val-des-Monts – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 39
+  },
+  {
+    "path": "en/constructions/2-de-lopale/index.html",
+    "title": "2 de l'Opale, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 2
+  },
+  {
+    "path": "en/constructions/20-pink-cantley/index.html",
+    "title": "20 Pink, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 22
+  },
+  {
+    "path": "en/constructions/20-rena-cantley/index.html",
+    "title": "20 Rena, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 16
+  },
+  {
+    "path": "en/constructions/201-fraser-road-gatineau/index.html",
+    "title": "201 Fraser Road, Gatineau – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 44
+  },
+  {
+    "path": "en/constructions/206-sarrasin-val-des-monts/index.html",
+    "title": "206 Sarrasin, Val-des-Monts (Le Boréal) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 25
+  },
+  {
+    "path": "en/constructions/2316/index.html",
+    "title": "Project gallery | Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 29
+  },
+  {
+    "path": "en/constructions/241-francfort-street-gatineau/index.html",
+    "title": "241 Francfort Street, Gatineau – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 56
+  },
+  {
+    "path": "en/constructions/2533/index.html",
+    "title": "Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 56
+  },
+  {
+    "path": "en/constructions/3-vachon-cantley/index.html",
+    "title": "3 Vachon, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 23
+  },
+  {
+    "path": "en/constructions/318-des-erables-gatineau/index.html",
+    "title": "318 Des Érables, Gatineau – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 32
+  },
+  {
+    "path": "en/constructions/32-lacaune-gatineau/index.html",
+    "title": "32 Lacaune, Gatineau – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 26
+  },
+  {
+    "path": "en/constructions/39-des-freres-moncion/index.html",
+    "title": "39 Des Frères-Monçion – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 18
+  },
+  {
+    "path": "en/constructions/50-asaret/index.html",
+    "title": "50 Asaret, Pontiac – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 3
+  },
+  {
+    "path": "en/constructions/528-mont-cascade-cantley/index.html",
+    "title": "528 Mont Cascade, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 19
+  },
+  {
+    "path": "en/constructions/550-montee-de-la-source-cantley-lopale/index.html",
+    "title": "550 Montée de la Source, Cantley (L'Opale) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 25
+  },
+  {
+    "path": "en/constructions/61-chemin-whissell-cantley/index.html",
+    "title": "61 Chemin Whissell, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 20
+  },
+  {
+    "path": "en/constructions/69-du-rubis-val-des-monts/index.html",
+    "title": "69, du Rubis, Val-des-Monts – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 3
+  },
+  {
+    "path": "en/constructions/7-rumi-chelsea/index.html",
+    "title": "7 Rumi, Chelsea – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 27
+  },
+  {
+    "path": "en/constructions/99-cremazie-cantley-le-zenith/index.html",
+    "title": "99 Crémazie, Cantley (Le Zénith) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 44
+  },
+  {
+    "path": "en/constructions/boul-st-rene-gatineau-multiplex/index.html",
+    "title": "Boul. St-René, Gatineau (multiplex) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 10
+  },
+  {
+    "path": "en/constructions/cottage-lac-simon/index.html",
+    "title": "Cottage Lac Simon – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 14
+  },
+  {
+    "path": "en/constructions/index.html",
+    "title": "Réalisations – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/constructions/realisation-8/index.html",
+    "title": "12 rue Saint Moritz, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 32
+  },
+  {
+    "path": "en/constructions/rue-du-commandeur-cantley/index.html",
+    "title": "Rue du Commandeur, Cantley – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 12
+  },
+  {
+    "path": "en/constructions/rue-lafrance-gatineau-intergenerational-le-exalt/index.html",
+    "title": "Rue Lafrance, Gatineau - Intergenerational (Le Exalt) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 26
+  },
+  {
+    "path": "en/constructions/semi-detached-triplex-house-two-floors/index.html",
+    "title": "Semi-detached triplex house, two floors – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 36
+  },
+  {
+    "path": "en/constructions/twin-duplexes/index.html",
+    "title": "Twin duplexes (957-959-961-963 St-Louis Gatineau) – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 26
+  },
+  {
+    "path": "en/contact-us/index.html",
+    "title": "Silva Construction | Recommended entrepreneur | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/index.html",
+    "title": "Silva Construction | New custom homes | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/inventory/1902/index.html",
+    "title": "Inventory",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/inventory/index.html",
+    "title": "Inventaire – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/inventory/land-on-the-shores-of-lake-mcgregor/index.html",
+    "title": "Inventory",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/investors/index.html",
+    "title": "Silva Construction | Investing in real estate | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/1245/index.html",
+    "title": "Le Zénith – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/bellevue/index.html",
+    "title": "BELLEVUE – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/index.html",
+    "title": "Modèles – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/le-exalt-modele-a/index.html",
+    "title": "Le Exalt Modele A – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/le-exalt-modele-b/index.html",
+    "title": "Le Exalt Modèle B – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/le-versant/index.html",
+    "title": "Le Versant – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/moderno/index.html",
+    "title": "Moderno – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/opale/index.html",
+    "title": "Opale – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/semi-detached/index.html",
+    "title": "Semi-detached – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models/townhouse-model/index.html",
+    "title": "Townhouse Le Citadin – Silva Construction",
+    "language": "en",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models-type/intergenerational/index.html",
+    "title": "Intergenerational – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models-type/multiplex/index.html",
+    "title": "Multiplex – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/models-type/single-family/index.html",
+    "title": "Single Family – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/news/index.html",
+    "title": "Silva Construction | Construction News | Ottawa - Gatineau",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/services/index.html",
+    "title": "Silva Construction | Professional services | Gatineau - Outaouais",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/types/intergenerational/index.html",
+    "title": "Intergenerational – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/types/multiplex/index.html",
+    "title": "Multiplex – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "en/types/single-family/index.html",
+    "title": "Single Family – Silva Construction",
+    "language": "en",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "entreprise/equipe/index.html",
+    "title": "Silva Construction | Histoire de famille | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "entreprise/index.html",
+    "title": "Silva Construction | Un entrepreneur réputé | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "entreprise/temoignages/index.html",
+    "title": "Silva Construction | Des clients satisfaits | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "index.html",
+    "title": "Silva Construction | Maisons neuves sur mesure | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "inventaire/index.html",
+    "title": "Inventaire – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "investir/index.html",
+    "title": "Silva Construction | Investir en immobilier | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/bellevue/index.html",
+    "title": "Bellevue – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/index.html",
+    "title": "Modèles – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/le-exalt-modele-a/index.html",
+    "title": "Le Exalt Modele A – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/le-exalt-modele-b/index.html",
+    "title": "Le Exalt Modèle B – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/le-versant/index.html",
+    "title": "Le Versant – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/le-zenith/index.html",
+    "title": "Le Zénith – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/maison-de-ville-modele/index.html",
+    "title": "Maison de ville Le Citadin – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/moderno/index.html",
+    "title": "Moderno – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/opale/index.html",
+    "title": "Opale – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "modeles/semi-detache/index.html",
+    "title": "Semi-détaché – Silva Construction",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "nous-joindre/index.html",
+    "title": "Silva Construction | Entrepreneur recommandé | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 1,
+    "gallery_images": 0
+  },
+  {
+    "path": "realisations/10-rue-lesage-val-des-monts/index.html",
+    "title": "10 Lesage, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 19
+  },
+  {
+    "path": "realisations/107-commandeur-cantley/index.html",
+    "title": "107 Du Commandeur, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 34
+  },
+  {
+    "path": "realisations/108-lacaune-gatineau/index.html",
+    "title": "108 De Lacaune, Gatineau – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 43
+  },
+  {
+    "path": "realisations/11-de-la-falaise-cantley-modele-le-bellevue/index.html",
+    "title": "11 De la Falaise, Cantley (Modèle Le Bellevue) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 28
+  },
+  {
+    "path": "realisations/12-montreux-cantley/index.html",
+    "title": "12 Montreux (Cantley) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 10
+  },
+  {
+    "path": "realisations/142-chem-cross-wakefield/index.html",
+    "title": "142 Chem. Cross, Wakefield – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 59
+  },
+  {
+    "path": "realisations/15-georges-masson-angers-modele-le-citadin/index.html",
+    "title": "15 Georges, Masson-Angers (Modèle Le Citadin) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 27
+  },
+  {
+    "path": "realisations/16-ch-pink-cantley/index.html",
+    "title": "16 Pink, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 21
+  },
+  {
+    "path": "realisations/18-du-panorama-val-des-monts/index.html",
+    "title": "18 Du Panorama, Val-des-Monts – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 41
+  },
+  {
+    "path": "realisations/2-de-lopale/index.html",
+    "title": "2 de l'Opale, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 2
+  },
+  {
+    "path": "realisations/20-pink-cantley/index.html",
+    "title": "20 Pink, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 22
+  },
+  {
+    "path": "realisations/20-rena-cantley/index.html",
+    "title": "20 Rena, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 16
+  },
+  {
+    "path": "realisations/206-sarrasin-val-des-monts/index.html",
+    "title": "206 Sarrasin, Val-des-Monts (Modèle Le Boréal) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 25
+  },
+  {
+    "path": "realisations/3-vachon-cantley/index.html",
+    "title": "3 Vachon, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 22
+  },
+  {
+    "path": "realisations/318-des-erables-gatineau/index.html",
+    "title": "318 Des Érables, Gatineau – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 32
+  },
+  {
+    "path": "realisations/32-lacaune-gatineau/index.html",
+    "title": "32 Lacaune, Gatineau – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 26
+  },
+  {
+    "path": "realisations/39-des-freres-moncion/index.html",
+    "title": "39 Des Frères-Monçion – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 18
+  },
+  {
+    "path": "realisations/50-asaret/index.html",
+    "title": "50 Asaret, Pontiac – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 3
+  },
+  {
+    "path": "realisations/528-mont-cascade-cantley/index.html",
+    "title": "528 Mont Cascade, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 19
+  },
+  {
+    "path": "realisations/550-montee-de-la-source-cantley-modele-lopale/index.html",
+    "title": "550 Montée de la Source, Cantley (Modèle L'Opale) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 25
+  },
+  {
+    "path": "realisations/61-chemin-whissell-cantley/index.html",
+    "title": "61 Chemin Whissell, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 20
+  },
+  {
+    "path": "realisations/69-du-rubis-val-des-monts/index.html",
+    "title": "69, du Rubis, Val-des-Monts – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 3
+  },
+  {
+    "path": "realisations/7-du-rumi-chelsea/index.html",
+    "title": "7 Du Rumi, Chelsea – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 25
+  },
+  {
+    "path": "realisations/99-cremazie-cantley-modele-le-zenith/index.html",
+    "title": "99 Crémazie, Cantley (Modèle Le Zénith) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 44
+  },
+  {
+    "path": "realisations/boul-st-rene-gatineau-10-quadrex-jumeles/index.html",
+    "title": "Boul. St-René, Gatineau (10 quadrex jumelés) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 10
+  },
+  {
+    "path": "realisations/chalet-sur-le-lac-simon/index.html",
+    "title": "Chalet sur le Lac Simon – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 15
+  },
+  {
+    "path": "realisations/duplex-jumeles/index.html",
+    "title": "Duplex jumelés (957-959-961-963, St-Louis Gatineau) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 24
+  },
+  {
+    "path": "realisations/habitation-triplex-jumelee-deux-etages/index.html",
+    "title": "Habitation triplex jumelée, deux étages – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 36
+  },
+  {
+    "path": "realisations/https-silvaconstruction-ca-realisations-19-chem-lafreniere-val-des-monts/index.html",
+    "title": "19 chemin Lafrenière, Val-des-Monts – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 39
+  },
+  {
+    "path": "realisations/https-silvaconstruction-ca-realisations-https-silvaconstruction-ca-realisations-201-chemin-fraser-gatineau/index.html",
+    "title": "201 chemin Fraser, Gatineau – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 44
+  },
+  {
+    "path": "realisations/https-silvaconstruction-ca-realisations-https-silvaconstruction-ca-realisations-241-rue-de-francfort-gatineau/index.html",
+    "title": "241 rue de francfort, Gatineau – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 56
+  },
+  {
+    "path": "realisations/index.html",
+    "title": "Réalisations – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "realisations/realisation/index.html",
+    "title": "Réalisation – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 29
+  },
+  {
+    "path": "realisations/realisation-8/index.html",
+    "title": "12 rue Saint Moritz, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 32
+  },
+  {
+    "path": "realisations/rue-cantley/index.html",
+    "title": "Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 56
+  },
+  {
+    "path": "realisations/rue-du-commandeur-cantley/index.html",
+    "title": "Rue du Commandeur, Cantley – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 20
+  },
+  {
+    "path": "realisations/rue-lafrance-gatineau-avec-logis-parental-modele-le-exalt/index.html",
+    "title": "Rue Lafrance, Gatineau - Avec logis parental (Modèle Le Exalt) – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 25
+  },
+  {
+    "path": "services/index.html",
+    "title": "Silva Construction | Services professionnels | Gatineau - Outaouais",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "type-modeles/logis-parental/index.html",
+    "title": "Logis parental – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "type-modeles/multilogements/index.html",
+    "title": "Multilogements – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "type-modeles/unifamiliales/index.html",
+    "title": "Unifamiliales – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "types/logis-parental/index.html",
+    "title": "Logis parental – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "types/multilogements/index.html",
+    "title": "Multilogements – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  },
+  {
+    "path": "types/unifamiliales/index.html",
+    "title": "Unifamiliales – Silva Construction",
+    "language": "fr",
+    "forms": 0,
+    "gallery_images": 0
+  }
+]
