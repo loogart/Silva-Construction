@@ -1,0 +1,165 @@
+/* Shared overrides. Keep page-specific Silva branding in silva-theme.css. */
+:root { --silva-red:#f1333b; --silva-navy:#042744; }
+.icon { width:1em;height:1em;display:inline-block;vertical-align:-.125em;flex-shrink:0; }
+.fa-long-arrow-alt-right { width:1.25em; }
+button.mobile-menu-btn,button.sub-menu-arrow { border:0;background:none;color:inherit;padding:0;cursor:pointer;font:inherit; }
+button.mobile-menu-btn { font-size:24px; }
+.header-mobile-menu.collapse.show { display:block; }
+.mobile-menu .sub-menu.collapse.show { display:block; }
+.sub-menu-arrow[aria-expanded="true"] .sub-menu-arrow-close { display:none; }
+.sub-menu-arrow[aria-expanded="true"] .sub-menu-arrow-open { display:inline-block; }
+.main-menu li:focus-within > .sub-menu { visibility:visible;opacity:1;display:block; }
+.silva-row.row, .row-in-grid-inner.row { --bs-gutter-x:0; --bs-gutter-y:0; }
+.silva-row > .container { flex-shrink:1; }
+.column { min-height:1px; }
+@media(min-width:768px) { .vc_col-md-push-6 { left:50%;position:relative; } .vc_col-md-pull-6 { right:50%;position:relative; } }
+.property-carousel { display:block;width:100%;position:relative; }
+.property-carousel .carousel-item img { width:100%;height:auto;display:block; }
+.property-carousel .carousel-control-prev,.property-carousel .carousel-control-next { border:0;background:none;color:white;cursor:pointer;font-size:35px; }
+.contact-note { font-size:14px;line-height:1.5;margin-top:16px; }
+.silva-lightbox { position:fixed;inset:0;z-index:1060;overflow-x:hidden;overflow-y:auto; }
+.silva-lightbox .modal-dialog { max-width:1280px;margin:24px auto;padding:0 20px; }
+.silva-lightbox .modal-content { background:#111;color:#fff;border:0;border-radius:0; }
+.lightbox-toolbar { display:flex;align-items:center;gap:20px;padding:12px 20px;font-size:14px; }
+.lightbox-toolbar button { border:0;background:none;color:white;cursor:pointer;font:inherit; }
+.lightbox-toolbar button:last-child { margin-left:auto;font-size:25px; }
+.lightbox-toolbar a { color:white; }
+.lightbox-stage { display:flex;align-items:center;justify-content:center;position:relative;min-height:180px; }
+.lightbox-image { display:block;max-width:100%;max-height:80vh;width:auto;height:auto;margin:auto; }
+.lightbox-prev,.lightbox-next { position:absolute;top:45%;z-index:1;border:0;background:#0008;color:white;padding:14px;cursor:pointer;font-size:28px; }
+.lightbox-prev { left:0; } .lightbox-next { right:0; }
+.lightbox-caption { padding:0 20px;text-align:center; }
+.modal-backdrop { position:fixed;inset:0;z-index:1050;background:#000; }
+.modal-backdrop.show { opacity:.85; }
+@media(max-width:767px) { .lightbox-toolbar { gap:12px;flex-wrap:wrap; } .lightbox-original { display:none; } .silva-lightbox .modal-dialog { padding:0;margin:10px; } }
+@media(prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto!important;transition:none!important;animation:none!important; } }
+/* Match the original 15px outer section bleed while Bootstrap owns column widths. */
+.silva-row.row,.row-in-grid-inner.row { margin-left:-15px;margin-right:-15px; }
+.content-inner > .silva-row.row { margin-left:0;margin-right:0; }
+/* Functional arrows are SVGs, including existing decorative pseudo-elements. */
+.acc-modele-cat-row a:after,.accueil-nouvelles-inner article .post-button p:after,.blog-listing-float-box article .post-button p:after,.modele-right .post-button p:after,.modele-cat-listing .modele-cat p:after {
+ content:"";display:inline-block;width:24px;height:1em;top:50%;transform:translateY(-50%);background-color:currentColor;
+ -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12h18m-6-6 6 6-6 6' fill='none' stroke='black' stroke-width='1.8'/%3E%3C/svg%3E") center/contain no-repeat;
+ mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12h18m-6-6 6 6-6 6' fill='none' stroke='black' stroke-width='1.8'/%3E%3C/svg%3E") center/contain no-repeat;
+}
+.single-post .blog-single-button a:before { content:"";background:#d51c24 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M21 12H3m6-6-6 6 6 6' fill='none' stroke='white' stroke-width='1.8'/%3E%3C/svg%3E") center/32px no-repeat; }
+.header-mobile-menu-btn .mobile-menu-btn { vertical-align:middle; }
+.header-mobile-menu-btn .icon { color:var(--silva-red);font-size:30px; }
+button.mobile-menu-btn { line-height:30px; }
+.property-carousel .carousel-control-prev,.property-carousel .carousel-control-next { width:80px;height:200px;top:50%;bottom:auto;transform:translateY(-50%);background:rgba(241,51,59,.85);opacity:1;font-size:36px; }
+@media(max-width:767px) { .property-carousel .carousel-control-prev,.property-carousel .carousel-control-next { width:40px;height:80px;font-size:24px; } }
+@media(min-width:992px) { .desktop-shift-right { left:50%;position:relative; } .desktop-shift-left { right:50%;position:relative; } }
+/* Neutralize Bootstrap's container padding; Silva's theme supplies its original spacing. */
+.container { padding-left:0;padding-right:0; }
+/* Preserve the original gallery's white photo frame and dark overlay. */
+.silva-lightbox .modal-content { background:#fff;color:#333;padding:8px;border-radius:3px;box-shadow:0 0 5px #000; }
+.silva-lightbox .lightbox-stage { order:0; }
+.silva-lightbox .lightbox-toolbar { order:1;padding:6px 4px 0;gap:18px;color:#555;font-size:12px; }
+.silva-lightbox .lightbox-toolbar a,.silva-lightbox .lightbox-toolbar button { color:#555; }
+.silva-lightbox .lightbox-toolbar button:last-child { position:absolute;top:14px;right:14px;z-index:3;background:#fff;border-radius:50%;width:24px;height:24px;padding:2px;font-size:20px; }
+.silva-lightbox .lightbox-caption { order:2; }
+.modal-backdrop.show { opacity:.8; }
+
+/* Visual refinement — November 2026. Silva's original palette and type remain. */
+:root { --silva-radius-sm:8px;--silva-radius:10px;--silva-radius-lg:12px; }
+body { border-width:clamp(16px,3.33vw,48px); }
+.header-top { padding:0 24px;border-radius:10px; }
+.header-top,.header-top-left,.header-top-right { height:56px;line-height:56px; }
+.header-top-left { width:auto; }
+.header-top-right { display:flex;align-items:center;justify-content:flex-end;gap:24px;width:auto; }
+.header-top-right>div { float:none; }
+.header-top-right ul.menu { display:flex;align-items:center;gap:24px;height:56px;margin:0; }
+.header-top-right ul.menu>li { float:none;height:auto;line-height:1; }
+.header-top-right ul.menu>li:last-child { background:transparent; }
+.header-top-right ul.menu>li>a { padding:0;font-size:13px;line-height:20px;letter-spacing:.04em; }
+.header-top .menu-social { padding:0;border:0; }
+.header-top .menu-social a:first-child { margin:0; }
+.header-top .menu-social .icon { font-size:17px; }
+.menu-phone a .icon { padding:0;margin-right:10px;width:20px; }
+.header-top .menu-phone a { font-size:15px; }
+.header-top .wpml-ls-item a { display:flex;align-items:center;justify-content:center;gap:8px;padding:8px 12px!important;min-height:36px;border:1px solid #ffffff45;border-radius:8px;transition:background-color .2s,border-color .2s; }
+.header-top .wpml-ls-item a:hover { background:#ffffff18;border-color:#ffffff90; }
+.language-icon { width:17px;height:17px; }
+.logo-wrapper { height:112px;line-height:112px; }
+.main-menu>li { height:112px;line-height:112px; }
+.main-menu>li>a { border-bottom-width:4px;padding-bottom:8px; }
+.main-menu>li>ul { border:1px solid #0427440f;border-radius:10px;overflow:hidden;box-shadow:0 16px 40px #04274416; }
+.main-menu-container .sub-menu>li>a { padding:18px 22px!important;font-size:17px; }
+
+/* Inset headline, generous breathing room, and a borderless family photograph. */
+.batisseur-milieu-row.row { margin:0;padding:64px 56px!important;border:0!important;border-radius:12px;overflow:hidden;margin-bottom:48px; }
+.batisseur-milieu-row .hero-copy > .column-inner { padding:0 56px 0 0; }
+.batisseur-milieu-row .silva-single-image,.batisseur-milieu-row .silva-figure,.batisseur-milieu-row .silva-single-image-wrapper { display:block;width:100%;text-align:left; }
+.batisseur-milieu-row .hero-copy img { display:block;width:100%;max-width:520px;height:auto;padding:0!important; }
+/* Crop the baked-in white frame, including a small bottom-edge safety inset. */
+.hero-photo { position:relative;aspect-ratio:838 / 554;overflow:hidden;border-radius:10px;width:100%;isolation:isolate; }
+.batisseur-milieu-row .hero-photo img { position:absolute;width:105.9666%;max-width:none;height:auto;left:-4.1766%;top:-6.3177%;margin:0;padding:0; }
+
+/* Selected surfaces get softened corners; the architecture stays crisp. */
+.dist-btn,input.wpcf7-form-control.wpcf7-submit { border-radius:8px;transition:background-color .2s,color .2s,box-shadow .2s; }
+.dist-btn:hover { box-shadow:0 8px 22px #04274415; }
+.realisations-accueil-inner .realisation-inner,.blog-listing-inner .realisation-inner,.modele-inner { border-radius:10px;overflow:hidden; }
+.accueil-nouvelles-inner article,.blog-listing-float-box article.post { border-radius:10px;overflow:hidden; }
+.acc-modele-cat-row > .column { padding:0 8px; }
+.acc-modele-cat-row > .column > .column-inner { border-radius:10px;overflow:hidden; }
+.property-carousel,.modeles-desc,.details-modeles { border-radius:10px;overflow:hidden; }
+.single-realisation-image img { border-radius:10px; }
+.acc-nous-joindre-row { border-radius:12px;overflow:hidden; }
+input.wpcf7-form-control.wpcf7-text,select.wpcf7-form-control.wpcf7-select,textarea.wpcf7-form-control.wpcf7-textarea { border-radius:8px;border-color:#ccd2d8;transition:border-color .2s,box-shadow .2s; }
+input.wpcf7-form-control:focus,select.wpcf7-form-control:focus,textarea.wpcf7-form-control:focus { border-color:var(--silva-navy);box-shadow:0 0 0 3px #04274412; }
+a:focus-visible,button:focus-visible { outline:2px solid var(--silva-red);outline-offset:5px; }
+.property-carousel .carousel-control-prev { border-radius:0 8px 8px 0; }
+.property-carousel .carousel-control-next { border-radius:8px 0 0 8px; }
+@media(max-width:1199px) {
+ .batisseur-milieu-row.row { padding:48px 36px!important; }
+ .batisseur-milieu-row .hero-copy > .column-inner { padding-right:32px; }
+ .header-mobile-top { border-radius:10px;height:52px;line-height:52px; }
+ .header-mobile-top-left,.header-mobile-top-right { height:52px;line-height:52px; }
+ .header-mobile-top .menu-phone a { font-size:15px; }
+ .header-mobile-top .menu-social { border:0;padding:0; }
+ .header-mobile-top .menu-social a:first-child { margin:0; }
+ .header-mobile-top-right .widget_nav_menu { display:block; }
+ .header-mobile-top-right { display:flex;align-items:center;justify-content:flex-end;gap:16px; }
+ .header-mobile-top-right .menu-top-menu-container ul { margin:0; }
+ .header-mobile-top-right .menu-top-menu-container li:not(.wpml-ls-item) { display:none; }
+ .header-mobile-top-right .wpml-ls-item a { display:flex;align-items:center;gap:7px;border:1px solid #ffffff45;border-radius:8px;padding:5px 9px;line-height:20px;font-size:12px;color:white; }
+ .mobile-menu .wpml-ls-item { display:none; }
+ .header-mobile-logo,.header-mobile-menu-btn { line-height:100px; }
+ .header-mobile-menu { border-radius:10px;background:#fff;box-shadow:0 12px 30px #04274412; }
+}
+@media(max-width:767px) {
+ .batisseur-milieu-row.row { padding:36px 28px 28px!important;margin-bottom:28px; }
+ .batisseur-milieu-row .hero-copy > .column-inner { padding:0 0 32px; }
+ .batisseur-milieu-row .hero-copy img { max-width:420px;margin:auto; }
+ .hero-photo { border-radius:10px; }
+ .acc-modele-cat-row > .column { padding:0 0 16px; }
+ .header-mobile-top-left { width:55%; }
+ .header-mobile-top-right { width:45%; }
+ .header-mobile-top-right .menu-social { display:none; }
+ .header-mobile-top-right .widget_nav_menu { margin:0; }
+ .header-mobile-logo { width:160px; }
+ .dist-btn.footer-button,.dist-btn { padding:22px 28px;font-size:17px;line-height:24px; }
+}
+.header-top .wpml-ls-item a { box-sizing:border-box;height:36px;min-height:36px; }
+.logo-wrapper { width:220px; }
+.home .construis-mesure-row.row { margin-left:0;margin-right:0;border-radius:12px;overflow:hidden; }
+@media(max-width:1199px) {
+ .header-mobile-top-right .menu-top-menu-container,.header-mobile-top-right .menu-top-menu-en-container { display:block; }
+ .header-mobile-top-right .widget_nav_menu ul { display:flex;align-items:center;margin:0;padding:0;list-style:none; }
+ .header-mobile-top-right .widget_nav_menu li:not(.wpml-ls-item) { display:none; }
+ .header-mobile-top-right .wpml-ls-item a { box-sizing:border-box;height:34px; }
+}
+@media(max-width:767px) {
+ .home .construis-mesure-row.row { padding:32px 24px!important;background-image:linear-gradient(#eff0f5e8,#eff0f5e8),url("../../wp-content/uploads/2020/04/construis-mesure-bg.jpg")!important;background-position:left center!important; }
+ .home .construis-mesure-row > .column:first-child { display:none; }
+ .home .construis-mesure-row > .column:last-child > .column-inner { padding:0;text-align:left; }
+ .home .construis-mesure-row h2 { font-size:24px;line-height:1.2; }
+ .home .construis-mesure-row .silva-sep-pos-align-left { margin-left:0; }
+}
+.footer-col1-text,.footer-bottom-left p { color:#c0cbd3; }
+.mobile-menu .wpml-ls-item { display:none!important; }
+.news-grid { display:flex;flex-wrap:wrap; }
+.news-grid > article { display:flex;flex-direction:column;float:none;position:relative; }
+.news-grid > article .post_image { border-radius:10px 10px 0 0;overflow:hidden; }
+.news-grid > article .post-info { flex:1; }
+.news-grid > article .post-button { border-radius:0 0 10px 10px;overflow:hidden; }

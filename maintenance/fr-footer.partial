@@ -1,0 +1,155 @@
+<footer class="main-footer">
+     <div class="footer-top-bottom">
+      <div class="footer-top footer-col-count-4">
+       <div class="container">
+        <div class="footer-col footer-col-1">
+         <div class="footer-col-inner">
+          <div class="footer-logo-tel-row footer-contact-refresh">
+           <div class="footer-logo">
+            <a aria-label="Silva Construction — Accueil" href="{{root}}index.html">
+             <img alt="Silva Construction" decoding="async" height="85" loading="lazy" src="{{root}}wp-content/uploads/2020/04/footer-logo.png" width="272"/>
+            </a>
+           </div>
+           <div class="footer-tel">
+            <a href="tel:8195257800">
+             <svg aria-hidden="true" class="icon" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+              <path d="M7 3 3 5c-1 8 8 17 16 16l2-4-5-3-2 2c-3-1-5-3-6-6l2-2-3-5Z">
+              </path>
+             </svg>
+             819 525-7800
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="footer-col footer-col-2">
+         <div class="footer-col-inner">
+          <div class="widget_text widget footer-widget widget_custom_html footer-column-2-widget">
+           <h5>
+            FR
+           </h5>
+           <div class="textwidget custom-html-widget">
+            <div class="footer-col1-button">
+             <a class="dist-btn footer-button" href="{{root}}inventaire/index.html">
+              Voir l'inventaire
+             </a>
+            </div>
+            <div class="footer-col1-text">
+             Silva Construction respecte toutes les normes applicables du Code de construction du Québec de la Régie du bâtiment du Québec.
+            </div>
+            <div class="footer-col1-logos">
+             <img alt="Logo regie du bâtiment" class="" decoding="async" height="40" loading="lazy" src="{{root}}wp-content/uploads/2020/04/logo-regie.png" width="141"/>
+             <img alt="Logo APCHQ" class="" decoding="async" height="48" loading="lazy" src="{{root}}wp-content/uploads/2020/04/logo-apchq.png" width="109"/>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="footer-col footer-col-3">
+         <div class="footer-col-inner">
+          <div class="widget_text widget footer-widget widget_custom_html footer-column-3-widget">
+           <h5>
+            Suivez-nous !
+           </h5>
+           <div class="textwidget custom-html-widget">
+            <div class="footer-social-text">
+             <p>
+              Soyez à l'affût de nos derniers projets en cours!
+             </p>
+            </div>
+            <div class="footer-social">
+             <a aria-label="Facebook" href="https://www.facebook.com/constructionsilva" rel="noopener noreferrer" target="_blank">
+              <svg aria-hidden="true" class="icon fa-facebook-f" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+               <path d="M14 22v-9h3l.5-4H14V7c0-1 .5-2 2-2h2V1h-3c-4 0-6 2-6 6v2H6v4h3v9h5Z" fill="currentColor" stroke="none">
+               </path>
+              </svg>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="widget_text widget footer-widget widget_custom_html footer-column-3-widget">
+           <h5>
+            Bureau des ventes
+           </h5>
+           <div class="textwidget custom-html-widget">
+            <a href="https://goo.gl/maps/QpoRwY4D4n7z47sT9" rel="noopener noreferrer" target="_blank">
+             16, rue Burke, Cantley
+             <br/>
+             (Québec) J8V 3L5
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="footer-col footer-col-4">
+         <div class="footer-col-inner">
+          <div class="widget footer-widget widget_nav_menu footer-column-4-widget">
+           <h5>
+            Menu
+           </h5>
+           <div class="menu-footer-menu-container">
+            <ul class="menu" id="menu-footer-menu">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1107" id="menu-item-1107">
+              <a href="{{root}}entreprise/index.html">
+               Entreprise
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type_archive menu-item-object-modeles menu-item-1108" id="menu-item-1108">
+              <a href="{{root}}modeles/index.html">
+               Modèles
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1109" id="menu-item-1109">
+              <a href="{{root}}services/index.html">
+               Services
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110" id="menu-item-1110">
+              <a href="{{root}}investir/index.html">
+               Investir
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type_archive menu-item-object-inventaire menu-item-1111" id="menu-item-1111">
+              <a href="{{root}}inventaire/index.html">
+               Inventaire
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type_archive menu-item-object-realisations menu-item-1112" id="menu-item-1112">
+              <a href="{{root}}realisations/index.html">
+               Réalisations
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113" id="menu-item-1113">
+              <a href="{{root}}actualites/index.html">
+               Actualités
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1114" id="menu-item-1114">
+              <a href="{{root}}nous-joindre/index.html">
+               Nous joindre
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer-bottom footer-col-count-2">
+       <div class="container">
+        <div class="footer-bottom-left">
+         <div class="footer-bottom-inner">
+          <div class="widget_text widget footer-bottom-widget widget_custom_html bottom-left-widget">
+           <div class="textwidget custom-html-widget">
+            <p>
+             © 2020 Silva Construction. Tout droits réservés.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>

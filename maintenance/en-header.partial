@@ -1,0 +1,314 @@
+<header class="main-header main-header-regular-top">
+     <div class="header-container">
+      <div class="header-top">
+       <div class="header-top-left">
+        <div class="widget_text widget header-top-widget widget_custom_html header-top-left-widget">
+         <div class="textwidget custom-html-widget">
+          <div class="menu-phone">
+           <a href="tel:8195257800" rel="noopener noreferrer" target="_blank">
+            <svg aria-hidden="true" class="icon fa-phone-volume" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+             <path d="M7 3 3 5c-1 8 8 17 16 16l2-4-5-3-2 2c-3-1-5-3-6-6l2-2-3-5ZM15 3a7 7 0 0 1 6 6M15 7a3 3 0 0 1 2 2">
+             </path>
+            </svg>
+            819 525-7800
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="header-top-right">
+        <div class="widget header-top-widget widget_nav_menu header-top-right-widget">
+         <div class="menu-top-menu-en-container">
+          <ul class="menu" id="menu-top-menu-en">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380" id="menu-item-380">
+            <a href="{{root}}en/contact-us/index.html">
+             Contact us
+            </a>
+           </li>
+           <li class="mobile-only menu-item menu-item-type-post_type menu-item-object-page menu-item-398" id="menu-item-398">
+            <a href="{{root}}en/contact-us/index.html">
+             Contact us
+            </a>
+           </li>
+           <li class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-fr" id="menu-item-wpml-ls-2-fr">
+            <a aria-label="Passer au français" href="{{root}}index.html" title="FR">
+             <svg aria-hidden="true" class="icon language-icon" fill="none" stroke="currentColor" stroke-width="1.7" viewbox="0 0 24 24">
+              <circle cx="12" cy="12" r="9">
+              </circle>
+              <path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z">
+              </path>
+             </svg>
+             <span class="wpml-ls-native" lang="fr">
+              FR
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="widget_text widget header-top-widget widget_custom_html header-top-right-widget">
+         <div class="textwidget custom-html-widget">
+          <div class="menu-social">
+           <a aria-label="Facebook" href="https://www.facebook.com/constructionsilva" rel="noopener noreferrer" target="_blank">
+            <svg aria-hidden="true" class="icon fa-facebook-f" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+             <path d="M14 22v-9h3l.5-4H14V7c0-1 .5-2 2-2h2V1h-3c-4 0-6 2-6 6v2H6v4h3v9h5Z" fill="currentColor" stroke="none">
+             </path>
+            </svg>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="header-bottom">
+       <div class="header-bottom-left">
+        <div class="logo-wrapper">
+         <a aria-label="Silva Construction — Home" href="{{root}}en/index.html">
+          <img alt="Silva Construction" class="logo1" decoding="async" height="80" loading="eager" src="{{root}}wp-content/uploads/2020/04/logo.png" width="253"/>
+         </a>
+        </div>
+       </div>
+       <div class="header-bottom-right">
+        <div class="main-menu-container" id="main-menu-container">
+         <ul class="main-menu" id="main-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-728" id="menu-item-728">
+           <a href="{{root}}en/index.html#">
+            About us
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381" id="menu-item-381">
+             <a href="{{root}}en/about-us/index.html">
+              About us
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383" id="menu-item-383">
+             <a href="{{root}}en/about-us/team/index.html">
+              Team
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382" id="menu-item-382">
+             <a href="{{root}}en/about-us/testimonials/index.html">
+              Testimonials
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type_archive menu-item-object-modeles menu-item-384" id="menu-item-384">
+           <a href="{{root}}en/models/index.html">
+            Models
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388" id="menu-item-388">
+           <a href="{{root}}en/services/index.html">
+            Services
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389" id="menu-item-389">
+           <a href="{{root}}en/investors/index.html">
+            Investors
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type_archive menu-item-object-inventaire menu-item-390" id="menu-item-390">
+           <a href="{{root}}en/inventory/index.html">
+            Inventory
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type_archive menu-item-object-realisations menu-item-393" id="menu-item-393">
+           <a href="{{root}}en/constructions/index.html">
+            Gallery
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397" id="menu-item-397">
+           <a href="{{root}}en/news/index.html">
+            News
+           </a>
+          </li>
+          <li class="mobile-only menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
+           <a href="{{root}}en/contact-us/index.html">
+            Contact us
+           </a>
+          </li>
+          <li class="menu-item wpml-ls-slot-3 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3-fr" id="menu-item-wpml-ls-3-fr">
+           <a aria-label="Passer au français" href="{{root}}index.html" title="FR">
+            <svg aria-hidden="true" class="icon language-icon" fill="none" stroke="currentColor" stroke-width="1.7" viewbox="0 0 24 24">
+             <circle cx="12" cy="12" r="9">
+             </circle>
+             <path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z">
+             </path>
+            </svg>
+            <span class="wpml-ls-native" lang="fr">
+             FR
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="header-mobile">
+      <div class="header-mobile-top">
+       <div class="header-mobile-top-left">
+        <div class="widget_text widget header-top-widget widget_custom_html header-top-left-widget">
+         <div class="textwidget custom-html-widget">
+          <div class="menu-phone">
+           <a href="tel:8195257800" rel="noopener noreferrer" target="_blank">
+            <svg aria-hidden="true" class="icon fa-phone-volume" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+             <path d="M7 3 3 5c-1 8 8 17 16 16l2-4-5-3-2 2c-3-1-5-3-6-6l2-2-3-5ZM15 3a7 7 0 0 1 6 6M15 7a3 3 0 0 1 2 2">
+             </path>
+            </svg>
+            819 525-7800
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="header-mobile-top-right">
+        <div class="widget header-top-widget widget_nav_menu header-top-right-widget">
+         <div class="menu-top-menu-en-container">
+          <ul class="menu" id="menu-top-menu-en-1">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380">
+            <a href="{{root}}en/contact-us/index.html">
+             Contact us
+            </a>
+           </li>
+           <li class="mobile-only menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
+            <a href="{{root}}en/contact-us/index.html">
+             Contact us
+            </a>
+           </li>
+           <li class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-fr">
+            <a aria-label="Passer au français" href="{{root}}index.html" title="FR">
+             <svg aria-hidden="true" class="icon language-icon" fill="none" stroke="currentColor" stroke-width="1.7" viewbox="0 0 24 24">
+              <circle cx="12" cy="12" r="9">
+              </circle>
+              <path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z">
+              </path>
+             </svg>
+             <span class="wpml-ls-native" lang="fr">
+              FR
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="widget_text widget header-top-widget widget_custom_html header-top-right-widget">
+         <div class="textwidget custom-html-widget">
+          <div class="menu-social">
+           <a aria-label="Facebook" href="https://www.facebook.com/constructionsilva" rel="noopener noreferrer" target="_blank">
+            <svg aria-hidden="true" class="icon fa-facebook-f" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+             <path d="M14 22v-9h3l.5-4H14V7c0-1 .5-2 2-2h2V1h-3c-4 0-6 2-6 6v2H6v4h3v9h5Z" fill="currentColor" stroke="none">
+             </path>
+            </svg>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="header-mobile-inner-padding">
+       <div class="header-mobile-inner">
+        <div class="header-mobile-logo position-left">
+         <a aria-label="Silva Construction — Home" href="{{root}}en/index.html">
+          <img alt="Silva Construction" class="logo1 logo-mobile-1" decoding="async" height="80" loading="eager" src="{{root}}wp-content/uploads/2020/04/logo.png" width="253"/>
+         </a>
+        </div>
+        <div class="header-mobile-menu-btn position-right">
+         <button aria-controls="mobile-navigation" aria-expanded="false" aria-label="Open menu" class="mobile-menu-btn" data-bs-target="#mobile-navigation" data-bs-toggle="collapse" type="button">
+          <svg aria-hidden="true" class="icon fa-bars" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+           <path d="M3 6h18M3 12h18M3 18h18">
+           </path>
+          </svg>
+         </button>
+        </div>
+       </div>
+      </div>
+      <div class="header-mobile-menu collapse" id="mobile-navigation">
+       <div class="mobile-menu-container" id="mobile-menu-container">
+        <ul class="mobile-menu" id="mobile-menu">
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-728">
+          <a href="{{root}}en/index.html#">
+           About us
+          </a>
+          <button aria-controls="submenu-0" aria-expanded="false" aria-label="About submenu" class="sub-menu-arrow" data-bs-target="#submenu-0" data-bs-toggle="collapse" type="button">
+           <svg aria-hidden="true" class="icon fa-chevron-right sub-menu-arrow-close" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+            <path d="m9 5 7 7-7 7">
+            </path>
+           </svg>
+           <svg aria-hidden="true" class="icon fa-chevron-down sub-menu-arrow-open" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24">
+            <path d="m5 9 7 7 7-7">
+            </path>
+           </svg>
+          </button>
+          <ul class="sub-menu collapse" id="submenu-0">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381">
+            <a href="{{root}}en/about-us/index.html">
+             About us
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383">
+            <a href="{{root}}en/about-us/team/index.html">
+             Team
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382">
+            <a href="{{root}}en/about-us/testimonials/index.html">
+             Testimonials
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-post_type_archive menu-item-object-modeles menu-item-384">
+          <a href="{{root}}en/models/index.html">
+           Models
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388">
+          <a href="{{root}}en/services/index.html">
+           Services
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
+          <a href="{{root}}en/investors/index.html">
+           Investors
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type_archive menu-item-object-inventaire menu-item-390">
+          <a href="{{root}}en/inventory/index.html">
+           Inventory
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type_archive menu-item-object-realisations menu-item-393">
+          <a href="{{root}}en/constructions/index.html">
+           Gallery
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
+          <a href="{{root}}en/news/index.html">
+           News
+          </a>
+         </li>
+         <li class="mobile-only menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
+          <a href="{{root}}en/contact-us/index.html">
+           Contact us
+          </a>
+         </li>
+         <li class="menu-item wpml-ls-slot-3 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3-fr">
+          <a aria-label="Passer au français" href="{{root}}index.html" title="FR">
+           <svg aria-hidden="true" class="icon language-icon" fill="none" stroke="currentColor" stroke-width="1.7" viewbox="0 0 24 24">
+            <circle cx="12" cy="12" r="9">
+            </circle>
+            <path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z">
+            </path>
+           </svg>
+           <span class="wpml-ls-native" lang="fr">
+            FR
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </header>
